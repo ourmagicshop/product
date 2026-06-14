@@ -1,7 +1,7 @@
 ---
 name: user-story-template
 about: Template to User Stories.
-title: ''
+title: '[Proposal Name] User Story Name'
 labels: ''
 assignees: ''
 
