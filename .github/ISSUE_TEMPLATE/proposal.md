@@ -1,7 +1,7 @@
 ---
 name: proposal-template
 about: Template to Proposal.
-title: ''
+title: 'Proposal Name - Year/Month'
 labels: ''
 assignees: ''
 
