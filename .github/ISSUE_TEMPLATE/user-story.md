@@ -1,6 +1,6 @@
 ---
 name: user-story-template
-about: Template para User Stories.
+about: Template to User Stories.
 title: ''
 labels: ''
 assignees: ''
